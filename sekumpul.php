@@ -18,35 +18,39 @@
 
 </head>
 
-<body style="background-image: url(Gambar/kuta1.jpg)">
+<body style="background-image: url(Gambar/sekumpul1.jpg)">
 
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <div class="container">
-      <a class="navbar-brand" href="#">@racs24</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item ">
-            <a class="nav-link" href="index.html">Home
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="service.html">Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
-          </li>
-        </ul>
-      </div>
+ <!-- Navigation -->
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="#">@racs24</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item ">
+          <a class="nav-link" href="index.html">Home
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="service.html">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Form.html">form</a>
+        </li>
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>
+
 
   <!-- Page Content -->
   <div class="container">
@@ -62,14 +66,14 @@
 
 <!-- Blog Post -->
         <div class="card mb-4">
-          <img style="width: 96%; margin-left: 2%; margin-top: 2%;" class="card-img-top" src="Gambar/kuta2.jpg" alt="Card image cap">
+          <img style="width: 96%; margin-left: 2%; margin-top: 2%;" class="card-img-top" src="Gambar/sekumpul2.jpg" alt="Card image cap">
           <div class="card-body">
-            <h2 class="card-title">Pantai Kuta</h2>
-            <p class="card-text">Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta, sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an. Pantai Kuta sering pula disebut sebagai pantai matahari terbenam (sunset beach) sebagai lawan dari pantai Sanur. Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.</p>
+            <h2 class="card-title">Air Terjun Sekumpul</h2>
+            <p class="card-text">Objek wisata air terjun Sekumpul saat ini adalah salah satu tempat rekreasi air terjun yang paling populer di wilayah Kabupaten Buleleleng. Pesona indah alam air terjun menjadi destinasi wisata selain pantai yang banyak dicari wisatawan saat liburan di pulau Dewata Bali. </p>
             
-            <p>Pantai Kuta terkenal memiliki ombak yang bagus untuk olahraga selancar (surfing), terutama bagi peselancar pemula. Selain keindahan pantai, wisata pantai Kuta juga menawarkan berbagai jenis hiburan seperti bar, restoran, pertokoan, restoran, hotel, dan toko-toko kelontong, serta pedagang kaki lima di sepanjang pantai menuju Pantai Legian.</p>
+            <p>Daya tarik atau pesona indah objek wisata air terjun Sekumpul Buleleng ini cukup menarik minat para wisatawan untuk berada lebih dekat, bahkan agar bisa bersentuhan langsung dengan air pegunungan yang mengalir pada air terjun tersebut. Keberadaan Sekumpul waterfall memang sangat populer, lokasinya cukup tersembunyi dan akses untuk menuju air terjun tersebut perlu usaha ekstra, sehingga menjadi sebuah perjalanan dan rekreasi petualangan trekking menyenangkan.</p>
 
-            <p>Pantai Kuta dapat ditempuh dengan waktu sekitar 10 menit dari Bandara Internasional Ngurah Rai dalam kondisi jalanan lancar.</p>
+            <p>Untuk air terjun sekumpul sendiri sebenarnya berada di wilayah desa Lemukih, karena akses masuk menuju tempat ini dari desa Sekumpul, sehingga tempat tersebut dikenal dengan nama air terjun Sekumpul, tetapi oleh warga desa Lemukih tempat rekreasi alam tersebut dinamakan air terjun Grombong ataupun Twin Waterfall karena dua air terjun letaknya berdampingan.</p>
           </div>
         </div>
 

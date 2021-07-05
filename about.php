@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Contact - Risky Ariadi Chandra</title>
+  <title>About - Risky Ariadi Chandra</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body style="background-image: url(Gambar/bg4.jpg)">
+<body style="background-image: url(Gambar/bg2.jpg)">
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
@@ -43,10 +43,14 @@
           <li class="nav-item">
             <a class="nav-link" href="contact.html">Contact</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="form.html">form</a>
+          </li>
         </ul>
       </div>
     </div>
   </nav>
+
 
   <!-- Page Content -->
   <div class="container">
@@ -56,32 +60,23 @@
       <!-- Blog Entries Column -->
       <div class="col-md-8">
 
-        <h1 class="my-4" style="color: rgb(255, 255, 21)" >Travelling Wisata Bali</h1>
+        <h1 class="my-4" style="color: yellow" >Travelling Wisata Bali</h1>
         
 
 
 <!-- Blog Post -->
         <div class="card mb-4">
-          <img style="width: 96%; margin-left: 2%; margin-top: 2%;" class="card-img-top" src="Gambar/bali3.jpg" alt="Card image cap">
+          <img style="width: 96%; margin-left: 2%; margin-top: 2%;" class="card-img-top" src="Gambar/bali.jpg" alt="Card image cap">
           <div class="card-body">
-            <h2 class="card-title">Contact</h2>
-            <p class="card-text">* 17.50
-                        Minggu, 7 Juli 2021 (WIB)
-                        Waktu di Pulau Nusa Lembongan.
-                        Hub : 082216198551 (risky) </p>
-                        <p>* 06.08
-                        Senin, 12 Juli 2021 (WIB)
-                        Matahari terbit di Pulau Nusa Lembongan.
-                        Hub : 0823842745 (Ferdi)
-                        </p>
-                        <p>* 18.18
-                        Minggu, 17 Juli 2021 (WIB)
-                        Matahari terbenam di Pulau Nusa Lembongan.
-                        Hub : 0823871234 (Haikal)</p>
-          </div>
-        </div>          
+            <h2 class="card-title">Bali</h2>
+            <p class="card-text">adalah sebuah provinsi di Indonesia yang ibu kota provinsinya bernama Denpasar. Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara. Di awal kemerdekaan Indonesia, pulau ini termasuk dalam Provinsi Sunda Kecil yang beribu kota di Singaraja, dan kini terbagi menjadi 3 provinsi, yakni Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur. Pada tahun 2020, penduduk provinsi Bali berjumlah 4.317.404 jiwa, dengan kepadatan 747 jiwa/km2.</p>
 
-      </div>
+            <p>Selain terdiri dari pulau Bali, wilayah provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu pulau Nusa Penida, pulau Nusa Lembongan, pulau Nusa Ceningan, Pulau Serangan, dan Pulau Menjangan. Secara geografis, Bali terletak di antara Pulau Jawa dan Pulau Lombok. Mayoritas penduduk Bali adalah pemeluk agama Hindu di dunia, Bali terkenal sebagai tujuan pariwisata dengan keunikan berbagai hasil seni-budayanya, khususnya bagi para wisatawan Jepang dan Australia. Bali juga dikenal dengan julukan Pulau Dewata dan Pulau Seribu Pura.</p>
+
+          </div>
+        </div>
+
+       </div>
 
       <!-- Sidebar Widgets Column -->
       <div class="col-md-4">

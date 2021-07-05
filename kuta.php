@@ -18,35 +18,39 @@
 
 </head>
 
-<body style="background-image: url(Gambar/penida2.jpg)">
+<body style="background-image: url(Gambar/kuta1.jpg)">
 
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <div class="container">
-      <a class="navbar-brand" href="#">@racs24</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item ">
-            <a class="nav-link" href="index.html">Home
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="service.html">Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
-          </li>
-        </ul>
-      </div>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="#">@racs24</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item ">
+          <a class="nav-link" href="index.html">Home
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="service.html">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Form.html">form</a>
+        </li>
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>
+
 
   <!-- Page Content -->
   <div class="container">
@@ -62,13 +66,14 @@
 
 <!-- Blog Post -->
         <div class="card mb-4">
-          <img style="width: 96%; margin-left: 2%; margin-top: 2%;" class="card-img-top" src="Gambar/penida1.jpg" alt="Card image cap">
+          <img style="width: 96%; margin-left: 2%; margin-top: 2%;" class="card-img-top" src="Gambar/kuta2.jpg" alt="Card image cap">
           <div class="card-body">
-            <h2 class="card-title">Pulau Nusa Penida</h2>
-            <p class="card-text">Nusa Penida adalah sebuah pulau kecil yang berada sebelah tenggara pulau Bali, dan terpisah oleh selat Badung. Di dekat pulau ini, terdapat 2 pulau kecil lain, yaitu pulau Nusa Lembongan dan pulau Nusa Ceningan. Ketiga pulau kecil yang ada di bagian tenggara pulau Bali, memiliki keunikan dan daya tarik tersendiri dan ada perbedaan satu sama lain. Ketiga pulau masuk dalam wilayah pemerintahan kabupaten Klungkung, provinsi Bali. </p>
-            <p>Arti kata Nusa Penida berasal dari bahasa Bali, Nusa artinya pulau dan Penida berasal dari dua kata, Ped dan Ida. Ped berarti kematian serta Ida berarti kekuasaan. Maka Nusa Penida dapat berarti pulau yang memiliki kekuasaan besar yang mematikan.</p>
+            <h2 class="card-title">Pantai Kuta</h2>
+            <p class="card-text">Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta, sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an. Pantai Kuta sering pula disebut sebagai pantai matahari terbenam (sunset beach) sebagai lawan dari pantai Sanur. Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.</p>
+            
+            <p>Pantai Kuta terkenal memiliki ombak yang bagus untuk olahraga selancar (surfing), terutama bagi peselancar pemula. Selain keindahan pantai, wisata pantai Kuta juga menawarkan berbagai jenis hiburan seperti bar, restoran, pertokoan, restoran, hotel, dan toko-toko kelontong, serta pedagang kaki lima di sepanjang pantai menuju Pantai Legian.</p>
 
-            <p>Pulau Nusa Penida adalah pulau terbesar dari ketiga pulau dan masyarakat lokal sering menyebut dengan nama Nusa Gede. Gede artinya besar. Sedangkan Nusa Ceningan adalah pulau terkecil dari ketiga pulau. Khusus untuk Nusa Lembongan, pulau yang paling terkenal bagi wisatawan, terutama wisatawan Australia.</p>
+            <p>Pantai Kuta dapat ditempuh dengan waktu sekitar 10 menit dari Bandara Internasional Ngurah Rai dalam kondisi jalanan lancar.</p>
           </div>
         </div>
 
